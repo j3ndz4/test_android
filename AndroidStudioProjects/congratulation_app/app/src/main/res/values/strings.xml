@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">congratulation_app</string>
+    <string name="clickText">KLINJI PRZYCISK</string>
+    <string name="congratulationText"></string>
+</resources>

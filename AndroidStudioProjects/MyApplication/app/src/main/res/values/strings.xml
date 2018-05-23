@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="sumButton">Suma</string>
+    <string name="clearButton">Usuń</string>
+    <string name="firstNumber">Podaj pierwszą liczbę</string>
+    <string name="lastNumber">Podaj drugą liczbę</string>
+</resources>
